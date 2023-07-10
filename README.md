@@ -7,7 +7,6 @@ Leet Code Course for 30 days Java Script Program
 [![Orange Button]][Link]   
 
 <br>
-<br>
 
 <!---------------------------------------------------------------------------->
 
