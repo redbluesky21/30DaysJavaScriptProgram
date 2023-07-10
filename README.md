@@ -20,4 +20,4 @@ Leet Code Course for 30 days Java Script Program
 
 <!---------------------------------[ Badges ]---------------------------------->
 
-[Orang Button]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons](https://img.shields.io/badge/Custom-Button-orange?style=flat-square)https://img.shields.io/badge/Custom-Button-orange?style=flat-square
+[Orang Button]: https://img.shields.io/badge/Custom-Button-orange?style=flat-square
