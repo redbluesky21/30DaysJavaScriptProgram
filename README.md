@@ -1,5 +1,5 @@
 # 30 Days JavaScript Program
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<div style="display: flex; justify-content: center">
 [![Orange Button]][Link]   
 </div>
 Leet Code Course for 30 days Java Script Program
@@ -7,7 +7,6 @@ Leet Code Course for 30 days Java Script Program
 <div = center>
 For refreshing memories.
 <br>
-[![Orange Button]][Link]   
 
 <!---------------------------------------------------------------------------->
 
