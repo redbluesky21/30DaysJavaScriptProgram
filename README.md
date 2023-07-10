@@ -1,14 +1,10 @@
 # 30 Days JavaScript Program
-<p align="center">
-  <div>
-    [![Orange Button]][Link]   
-[![Orange Button]][Link]   
 Leet Code Course for 30 days Java Script Program
 <br>
 <div = center>
 For refreshing memories.
 <br>
-
+[![Orange Button]][Link]   
 <!---------------------------------------------------------------------------->
 
 [Link]: https://leetcode.com/studyplan/30-days-of-javascript/
