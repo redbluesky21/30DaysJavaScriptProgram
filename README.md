@@ -20,4 +20,4 @@ Leet Code Course for 30 days Java Script Program
 
 <!---------------------------------[ Badges ]---------------------------------->
 
-[Orange Button]: https://img.shields.io/badge/Link-To-Leetcode-orange?style=flat-square
+[Orange Button]: https://img.shields.io/badge/Leetcode-Link-orange?style=flat-square
