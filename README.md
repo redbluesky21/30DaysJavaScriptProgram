@@ -1,7 +1,10 @@
 # 30 Days JavaScript Program
-<div style="display: flex; justify-content: center">
+<p align="center">
+  <div>
+    <!-- Content inside the div --> [![Orange Button]][Link]   
+  </div>
+</p>
 [![Orange Button]][Link]   
-</div>
 Leet Code Course for 30 days Java Script Program
 <br>
 <div = center>
