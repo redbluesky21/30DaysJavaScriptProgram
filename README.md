@@ -4,13 +4,8 @@ Leet Code Course for 30 days Java Script Program
 For refreshing memories.
 <br>
   
+[![Orange Button]][Link]   
 
-
-<p align="center">
-  <div>
-    [![Orange Button]][Link]   
-  </div>
-</p>
 <!---------------------------------------------------------------------------->
 
 [Link]: https://leetcode.com/studyplan/30-days-of-javascript/
